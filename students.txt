@@ -1,0 +1,4 @@
+STUDENT RECORDS DATABASE
+ID	NAME		SCORE
+----------------------------
+101	Alia		90.00
